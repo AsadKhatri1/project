@@ -71,7 +71,9 @@
     height: 40px;
     margin-top:-8px ;
 
-.bt{
+
+}
+  .bt{
     border: 2px solid #f9c13c;
     width: 10rem;
     color: #f9c13c;
@@ -85,9 +87,7 @@
     width: 10rem;
     background-color: #f9c13c;
     color: white;
-    
-}
-    
+      
 }
 
 .nd-box{
